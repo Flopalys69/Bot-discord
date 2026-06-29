@@ -30,14 +30,11 @@ class Fun(commands.Cog):
     async def roast(self, ctx, member: discord.Member):
 
         roasts = [
-            #"Même Google ne trouve pas ton intelligence.",
-            #"Tu es la raison pour laquelle il y a des instructions sur le shampooing.",
-            #"Ton cerveau est en mode économie d'énergie.",
-            "NTM",
-            #"Retourne Manger des nems",
-            #"T nul a Valorant reste FER",
-            "ta mere aurait du t'avorter",
-            "TA PA DE VI,PA DAMI,PA DPARENT"
+            "Même Google ne trouve pas ton intelligence.",
+            "Tu es la raison pour laquelle il y a des instructions sur le shampooing.",
+            "Ton cerveau est en mode économie d'énergie.",
+            "Retourne Manger des nems",
+            "T nul a Valorant reste FER",
 
         ]
 
